@@ -1,5 +1,5 @@
-# Disclaimer
-Trying a telegram bot for the first time. <br/>
+# Introduction
+Creating a telegram bot. <br/>
 Crypto API used: https://www.coingecko.com/
 
 
